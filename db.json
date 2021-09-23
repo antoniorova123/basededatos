@@ -2,9 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "item1"
+      "title": "hello"
     }
-
   ],
   "profile": {
     "name": "typicode"
